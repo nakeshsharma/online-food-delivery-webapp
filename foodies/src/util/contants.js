@@ -1,0 +1,1 @@
+export const RAZORPAY_KEY = "write your own razorpay access key";
