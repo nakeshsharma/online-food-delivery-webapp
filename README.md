@@ -9,6 +9,13 @@
 
 ---
 
+## 🎥 Demo Video & Live Walkthrough
+
+[![Watch Demo Video](https://img.youtube.com/vi/eoRUlkIEgmE/0.jpg)](https://www.youtube.com/watch?v=eoRUlkIEgmE)  
+Click the image or [watch the full demo here](https://www.youtube.com/watch?v=eoRUlkIEgmE) to see the app in action and explore its features.
+
+---
+
 ## 🌈 Welcome to the Delicious World of Online Food Ordering! 🌈
 
 Want to order your favorite meal with just a few clicks? This project is your tastiest solution! A fullstack web app combining React, Java Spring Boot, MongoDB, and powerful real-time features using WebSockets. Enjoy secure JWT authentication, with separate user and admin panels designed for smooth experiences on all devices.
@@ -78,7 +85,7 @@ Want to order your favorite meal with just a few clicks? This project is your ta
 **Nakesh Sharma**  
 ✉️ Email: [nakeshsharma78@gmail.com](mailto:nakeshsharma78@gmail.com)  
 🐱 GitHub: [nakeshsharma](https://github.com/nakeshsharma)  
-📍 Location: Hyderabad, India
+📍 Location: Hyderabad, India  
 
 ---
 
